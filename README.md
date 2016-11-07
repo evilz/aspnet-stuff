@@ -9,9 +9,12 @@
 ## Configuration
 - [Configuration in .NET Core](https://msdn.microsoft.com/en-us/magazine/mt632279.aspx?f=255&MSPPError=-2147217396)
 
+## Dependency injection
+- [Dependency Injection with .NET Core](https://msdn.microsoft.com/en-us/magazine/mt707534.aspx)
+
 ## Logging 
 
-- [Dependency Injection with .NET Core](https://msdn.microsoft.com/en-us/magazine/mt707534.aspx)
+- [Logging with .NET Core](https://msdn.microsoft.com/en-us/magazine/mt694089.aspx)
 
 ## Test
 
