@@ -20,6 +20,11 @@
 
 - [dotnet watch for test](http://www.hanselman.com/blog/UsingDotnetWatchTestForContinuousTestingWithNETCoreAndXUnitnet.aspx)
 
+## Micro-service
+
+- [steeltoe : Painless microservice patterns for .NET](http://steeltoe.io/)
+
+
 ## Utils 
 
 - [Command-Line](https://msdn.microsoft.com/en-us/magazine/mt763239?f=255&MSPPError=-2147217396)
