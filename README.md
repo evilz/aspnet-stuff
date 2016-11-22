@@ -15,6 +15,7 @@
 ## Logging 
 
 - [Logging with .NET Core](https://msdn.microsoft.com/en-us/magazine/mt694089.aspx)
+- [serilog-sinks-elasticsearch](https://github.com/serilog/serilog-sinks-elasticsearch)
 
 ## Test
 
